@@ -4,4 +4,4 @@
 
 ![Top Languages](https://ghstats.dev/api/langs?username=arahmanp&max_langs=4&layout=grid)
 
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=arahmanp&days=30&width=320&height=80)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=arahmanp&days=30&width=500&height=200)
